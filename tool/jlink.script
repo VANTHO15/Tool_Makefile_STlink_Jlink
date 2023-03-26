@@ -1,0 +1,5 @@
+r
+loadfile $(PATH_OUTPUT)/$(TEST)/$(MODULE).hex 0x0
+r
+g
+exit
